@@ -5,9 +5,9 @@
 **Materia:** Proyecto Integrador I  
 **Docente:** Cristian Gonzalo Vera  
 
-## Grupo: Nombre del Grupo
+## Grupo: GRUPO PLATA
 **Integrantes:**
-- Integrante 1 ([GitHub](https://github.com/integrante1))
+- JARA RAUL ([GitHub]([https://github.com/r-j28))
 - Integrante 2 ([GitHub](https://github.com/integrante2))
 - Integrante 3 ([GitHub](https://github.com/integrante3))
 - Integrante 4 ([GitHub](https://github.com/integrante4))
